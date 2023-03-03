@@ -57,7 +57,7 @@ function Contact() {
               <span className="contact__card-data">931-276-162</span>
               <a
                 className="contact__button"
-                href="https://wa.me/+51936822754/?text=Hello, more information!"
+                href="https://wa.me/+51931276162/?text=Hello, more information!"
               >
                 {/* <img
                   className="button__whatsapp"
