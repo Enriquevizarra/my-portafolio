@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/my-portafolio/static/css/main.0ef7aef4.css",
+    "main.js": "/my-portafolio/static/js/main.07db7a71.js",
+    "static/media/resume-EnriqueVizarra.pdf": "/my-portafolio/static/media/resume-EnriqueVizarra.df926b0289d1d2231336.pdf",
+    "static/media/testimonial3.png": "/my-portafolio/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/testimonial2.png": "/my-portafolio/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/myphoto.jpg": "/my-portafolio/static/media/myphoto.bad45ff5a49863547a30.jpg",
+    "static/media/testimonial1.png": "/my-portafolio/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/my-portafolio/index.html",
+    "main.0ef7aef4.css.map": "/my-portafolio/static/css/main.0ef7aef4.css.map",
+    "main.07db7a71.js.map": "/my-portafolio/static/js/main.07db7a71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ef7aef4.css",
+    "static/js/main.07db7a71.js"
+  ]
+}
