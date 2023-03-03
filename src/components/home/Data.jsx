@@ -64,7 +64,7 @@ function Data() {
       I like to create, design and maintain websites, easy to use for customers.
       </p>
       <a href="#contact" className="button button--flex">
-        Say Hello
+        Say Hello&nbsp;&nbsp;
         <svg
                   className="button__icon"
                   xmlns="http://www.w3.org/2000/svg"
