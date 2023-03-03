@@ -129,7 +129,7 @@ function Contact() {
             </div>
 
             <button className="button button--flex">
-              Send Message
+              Send Message&nbsp;&nbsp;
               <svg
                 className="button__icon"
                 xmlns="http://www.w3.org/2000/svg"
