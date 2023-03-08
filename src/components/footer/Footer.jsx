@@ -5,7 +5,7 @@ import "../../App.css";
 
 function Footer() {
   return (
-    <div className="footer">
+    <div className="footer" id="projetcs">
       <div className="footer__container container">
         <h1 className="footer__title">Vizarra</h1>
 
@@ -36,8 +36,8 @@ function Footer() {
           </li>
 
           <li>
-            <a href="#portafolio" className="footer__link">
-              projects
+            <a href="#projects" className="footer__link">
+              Projects
             </a>
           </li>
 
